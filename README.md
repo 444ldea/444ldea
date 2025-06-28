@@ -18,7 +18,7 @@
 
 - :email: Siéntete libre de contactarme: <a src="aldeatorres.f@gmail.com">aldeatorres.f@gmail.com
 - 📝 Analista Programador
-- :nerd_face: Always believe `"You are what you loved"`
+
 
 <br>
 
