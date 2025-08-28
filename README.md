@@ -1,57 +1,94 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- PERFIL: https://github.com/{tu-usuario}/{tu-usuario} -->
+<!-- Reemplaza TODO lo que esté entre {llaves} -->
 
-<!--h1 without bottom border-->
+<h1 align="center">Hola, soy {Felipe Eduardo Alea Torres} 👋</h1>
+<p align="center">
+  Desarrollador Full-Stack · Node.js · React · MongoDB · DevOps básico · Networking
+</p>
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Buenas, mi nombre es Felipe Aldea</h1></summary>
-  </ul>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/{tu-linkedin}/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-{Tu_Usuario}-blue?logo=linkedin"></a>
+  <a href="mailto:{tu-email}@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contactar-informational?logo=gmail"></a>
+  <a href="https://{tu-dominio-o-portfolio}"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Ver%20sitio-black?logo=firefoxbrowser"></a>
+</p>
 
+---
 
-<!--About Me-->
+### Sobre mí
+- 🧠 Construyo **Nous**, una plataforma web para gestionar pacientes y evaluar el test **HTP (House-Tree-Person)** con asistencia de IA.  
+- 🛠️ Stack principal: **React (sin react-router, navegación por estado) · Tailwind CSS · Node.js/Express · MongoDB/Mongoose · JWT**.  
+- 🤖 Integro IA (OpenAI/HF) para análisis asistido y generación de informes.  
+- 🚀 DevOps: despliegues en **Vercel** (frontend) y **Render** (backend), configuración de variables de entorno y CORS.  
+- 🔐 Intereses: **seguridad, hardening, redes** (sniffer con Scapy, firewall por IP/puerto), automatizaciones.  
+- 📚 Actualmente aprendiendo **C++** (desde base de Python), Estructuras de Datos y buenas prácticas de compilación en entornos Linux/WSL.
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí
+---
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+### Proyectos destacados
+> Fija (“Pin”) estos repos en tu perfil para que se muestren arriba.
 
-- :email: Siéntete libre de contactarme: <a src="aldeatorres.f@gmail.com">aldeatorres.f@gmail.com
-- 📝 Analista Programador
+- **Nous** — Plataforma HTP con IA  
+  _React · Tailwind · Node/Express · MongoDB · JWT_  
+  - Gestión de pacientes y evaluaciones (HTP).  
+  - Persistencia de navegación (estado de página/paciente/evaluación).  
+  - Validación de token al inicio y sesión con JWT.  
+  - Despliegue: Vercel (FE) / Render (BE).  
+  Repo: **frontend** → `{link-repo-frontend}` · **backend** → `{link-repo-backend}`
 
+- **Sapo (Discord bot)** — Alertas de voz, noticias (RSS), tareas programadas  
+  _Node.js · discord.js_  
+  Repo: `{link-repo-sapo}`
 
-<br>
+- **Hardening Scripts (Linux)** — Baseline automatizada  
+  _Bash/Python_ · configura permisos, desactiva root/SSH por password, instala fail2ban, etc.  
+  Repo: `{link-repo-hardening}`
 
-## 🛠️ Mis Habilidades
+- **Sniffer & Firewall** — Seguridad de red educativa  
+  _Python (Scapy) · Reglas IP/puerto_  
+  Repos: `{link-repo-sniffer}` · `{link-repo-firewall}`
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
+### Tech Stack
+**Frontend:** React · Tailwind CSS  
+**Backend:** Node.js · Express · JWT · REST  
+**DB:** MongoDB · Mongoose  
+**AI:** OpenAI / Hugging Face (inference)  
+**DevOps:** Vercel · Render · Variables de entorno · CORS  
+**Lenguajes:** JavaScript · Python · C++ (aprendiendo)  
+**Sistemas/Redes:** Linux · Bash · Scapy · nfTables/ufw
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JS-ES202x-informational?logo=javascript">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-Express-success?logo=node.js">
+  <img alt="React" src="https://img.shields.io/badge/React-18-blue?logo=react">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-Mongoose-brightgreen?logo=mongodb">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwindcss&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel">
+  <img alt="Render" src="https://img.shields.io/badge/Render-Deploy-46E3B7?logo=render">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-Bash-informational?logo=linux">
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+---
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
+### Métricas (opcionales)
+> Cambia `{444ld34}` por tu usuario real.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username={tu-usuario}&show_icons=true&hide_title=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={tu-usuario}&layout=compact&langs_count=8" alt="Top Langs" />
+</p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
+---
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
+### Cómo puedo ayudarte
+- Diseño e implementación de **APIs REST** con autenticación JWT.  
+- **Integración de IA** en flujos de negocio (prompts, contexto, consideraciones éticas).  
+- **Despliegue** de apps full-stack (Vercel/Render) y configuración de **CORS/env**.  
+- **Scripts de hardening** y automatizaciones de seguridad en Linux.  
 
-<br>
+**¿Colaboramos?** Escríbeme: `aldeatorres.f@gmail.com` · LinkedIn: `https://www.linkedin.com/in/felipe-aldea/`
+
+---
+
+<sub>Última actualización: 2025-08-28</sub>
