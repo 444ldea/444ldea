@@ -1,7 +1,7 @@
 <!-- PERFIL: https://github.com/{tu-usuario}/{tu-usuario} -->
 <!-- Reemplaza TODO lo que esté entre {llaves} -->
 
-<h1 align="center">Hola, soy {Felipe Eduardo Alea Torres} 👋</h1>
+<h1 align="center">Hola, soy Felipe Eduardo Alea Torres 👋</h1>
 <p align="center">
   Desarrollador Full-Stack · Node.js · React · MongoDB · DevOps básico · Networking
 </p>
