@@ -1,6 +1,13 @@
 <!-- PERFIL: https://github.com/{tu-usuario}/{tu-usuario} -->
 <!-- Reemplaza TODO lo que esté entre {llaves} -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+  <img alt="Banner" src="assets/banner-light.png" width="100%">
+</picture>
+
+
 <h1 align="center">Hola, soy Felipe Eduardo Aldea Torres 👋</h1>
 <p align="center">
   Full-Stack Developer · Node.js · React · MongoDB · DevOps básico · Networking
