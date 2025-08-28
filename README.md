@@ -3,7 +3,7 @@
 
 <h1 align="center">Hola, soy Felipe Eduardo Alea Torres 👋</h1>
 <p align="center">
-  Desarrollador Full-Stack · Node.js · React · MongoDB · DevOps básico · Networking
+  Full-Stack Developer · Node.js · React · MongoDB · DevOps básico · Networking
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### Sobre mí
 - 🧠 Construyo **Nous**, una plataforma web para gestionar pacientes y evaluar el test **HTP (House-Tree-Person)** con asistencia de IA.  
-- 🛠️ Stack principal: **React (sin react-router, navegación por estado) · Tailwind CSS · Node.js/Express · MongoDB/Mongoose · JWT**.  
+- 🛠️ Stack principal: **React · Tailwind CSS · Node.js/Express · MongoDB/Mongoose · JWT**.  
 - 🤖 Integro IA (OpenAI/HF) para análisis asistido y generación de informes.  
 - 🚀 DevOps: despliegues en **Vercel** (frontend) y **Render** (backend), configuración de variables de entorno y CORS.  
 - 🔐 Intereses: **seguridad, hardening, redes** (sniffer con Scapy, firewall por IP/puerto), automatizaciones.  
