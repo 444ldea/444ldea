@@ -25,7 +25,6 @@
 ---
 
 ### Proyectos destacados
-> Fija (“Pin”) estos repos en tu perfil para que se muestren arriba.
 
 - **Nous** — Plataforma HTP con IA  
   _React · Tailwind · Node/Express · MongoDB · JWT_  
