@@ -1,3 +1,4 @@
+
 <!-- README de perfil con tema Matrix -->
 <p align="center">
   <img src="assets/matrix-rain.svg" width="100%" alt="Matrix banner">
@@ -56,6 +57,8 @@
 </details>
 
 ---
+### Mi actividad
+![Snake animation](dist/snake.svg)
 
 <p align="center">
   <sub style="color:#00ff41">“There is no spoon.”</sub>
