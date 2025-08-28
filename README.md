@@ -72,7 +72,7 @@
 ---
 
 ### Métricas (opcionales)
-> Cambia `{444ld34}` por tu usuario real.
+> Cambia `444ldea}` por tu usuario real.
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username={tu-usuario}&show_icons=true&hide_title=true&count_private=true" alt="GitHub stats" />
