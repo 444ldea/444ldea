@@ -71,11 +71,10 @@
 ---
 
 ### Métricas (opcionales)
-> Cambia `444ldea` por tu usuario real.
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username={tu-usuario}&show_icons=true&hide_title=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={tu-usuario}&layout=compact&langs_count=8" alt="Top Langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=444ldea&show_icons=true&hide_title=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=444ldea&layout=compact&langs_count=8" alt="Top Langs" />
 </p>
 
 ---
