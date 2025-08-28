@@ -16,10 +16,10 @@
 
 <!-- Badges de contacto -->
 <p align="center">
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="mailto:aldeatorres.f@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contactar-00ff41?labelColor=000000&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/tu-linkedin/">
+  <a href="https://www.linkedin.com/in/felipe-aldea/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-00ff41?labelColor=000000&logo=linkedin">
   </a>
   <img alt="Vistas" src="https://komarev.com/ghpvc/?username=444ldea&color=00ff41&style=flat-square&label=Vistas">
@@ -38,14 +38,14 @@
 
 ---
 
-### ⭐ Repos destacados
+### Destacados
 <!-- Cambia los nombres de repo si no coinciden -->
 <p align="center">
-  <a href="https://github.com/444ldea/nous-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=444ldea&repo=nous-frontend&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9cff9c&icon_color=00ff41" />
+  <a href="https://github.com/444ldea/Sniffer-en-Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=444ldea&repo=Sniffer-en-Python&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9cff9c&icon_color=00ff41" />
   </a>
-  <a href="https://github.com/444ldea/nous-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=444ldea&repo=nous-backend&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9cff9c&icon_color=00ff41" />
+  <a href="https://github.com/444ldea/Script-Bash-de-Hardening">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=444ldea&repo=Script-Bash-de-Hardening&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9cff9c&icon_color=00ff41" />
   </a>
 </p>
 
