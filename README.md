@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/{tu-linkedin}/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-{Tu_Usuario}-blue?logo=linkedin"></a>
-  <a href="mailto:{tu-email}@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contactar-informational?logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/felipe-aldea/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-{Tu_Usuario}-blue?logo=linkedin"></a>
+  <a href="mailto:aldeatorres.f@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contactar-informational?logo=gmail"></a>
   <a href="https://{tu-dominio-o-portfolio}"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Ver%20sitio-black?logo=firefoxbrowser"></a>
 </p>
 
