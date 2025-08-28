@@ -1,99 +1,63 @@
-<!-- PERFIL: https://github.com/{tu-usuario}/{tu-usuario} -->
-<!-- Reemplaza TODO lo que esté entre {llaves} -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-  <img alt="Banner" src="assets/banner-light.png" width="100%">
-</picture>
-
-
-<h1 align="center">Hola, soy Felipe Eduardo Aldea Torres 👋</h1>
+<!-- README de perfil con tema Matrix -->
 <p align="center">
-  Full-Stack Developer · Node.js · React · MongoDB · DevOps básico · Networking
+  <img src="assets/matrix-rain.svg" width="100%" alt="Matrix banner">
 </p>
+
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&center=true&vCenter=true&duration=2800&multiline=true&repeat=true&color=00FF41&width=700&lines=%3E+Wake+up%2C+Neo...;%3E+The+Matrix+has+you.;%3E+Hola%2C+soy+444ldea" 
+    alt="typing matrix" />
+</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/felipe-aldea/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-  <a href="mailto:aldeatorres.f@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contactar-informational?logo=gmail"></a>
-  <a href="https://{tu-dominio-o-portfolio}"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Ver%20sitio-black?logo=firefoxbrowser"></a>
+  <a href="mailto:tu-email@ejemplo.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contactar-00ff41?logo=gmail&labelColor=000000"></a>
+  <a href="https://www.linkedin.com/in/tu-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ver_perfil-00ff41?logo=linkedin&labelColor=000000"></a>
+  <a href="https://tu-portfolio.com"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Online-00ff41?logo=firefoxbrowser&labelColor=000000"></a>
 </p>
 
 ---
 
-### Sobre mí
-- 🧠 Construyo **Nous**, una plataforma web para gestionar pacientes y evaluar el test **HTP (House-Tree-Person)** con asistencia de IA.  
-- 🛠️ Stack principal: **React · Tailwind CSS · Node.js/Express · MongoDB/Mongoose · JWT**.  
-- 🤖 Integro IA (OpenAI/HF) para análisis asistido y generación de informes.  
-- 🚀 DevOps: despliegues en **Vercel** (frontend) y **Render** (backend), configuración de variables de entorno y CORS.  
-- 🔐 Intereses: **seguridad, hardening, redes** (sniffer con Scapy, firewall por IP/puerto), automatizaciones.  
-- 📚 Actualmente aprendiendo **C++** (desde base de Python), Estructuras de Datos y buenas prácticas de compilación en entornos Linux/WSL.
+### 🧪 Stack (píldora verde)
+- **Frontend:** React (navegación por estado), Tailwind CSS  
+- **Backend:** Node.js, Express, JWT, REST  
+- **DB:** MongoDB (Mongoose)  
+- **IA:** OpenAI / Hugging Face (inference)  
+- **DevOps:** Vercel (FE), Render (BE), variables de entorno y CORS  
+- **Seguridad/Redes:** Linux, Bash, Scapy, ufw/nftables
+
+### 🧰 Proyectos destacados
+- **Nous** — Plataforma para evaluar **HTP** con asistencia de IA.  
+  _React · Node/Express · MongoDB · JWT · Vercel/Render_  
+  Repos: `[frontend](https://github.com/444ldea/nous-frontend)` · `[backend](https://github.com/444ldea/nous-backend)` *(ajusta los enlaces)*
+
+- **Sapo (Discord Bot)** — Alertas de voz, RSS de eSports, tareas programadas.  
+  _Node.js · discord.js_ — Repo: `https://github.com/444ldea/sapo` *(ajusta)*
+
+- **Hardening Scripts** — Baseline de seguridad Linux (permisos, SSH, fail2ban).  
+  _Bash/Python_ — Repo: `https://github.com/444ldea/hardening` *(ajusta)*
 
 ---
 
-### Proyectos destacados
-
-- **Nous** — Plataforma HTP con IA  
-  _React · Tailwind · Node/Express · MongoDB · JWT_  
-  - Gestión de pacientes y evaluaciones (HTP).  
-  - Persistencia de navegación (estado de página/paciente/evaluación).  
-  - Validación de token al inicio y sesión con JWT.  
-  - Despliegue: Vercel (FE) / Render (BE).  
-  Repo: **frontend** → `{link-repo-frontend}` · **backend** → `{link-repo-backend}`
-
-- **Sapo (Discord bot)** — Alertas de voz, noticias (RSS), tareas programadas  
-  _Node.js · discord.js_  
-  Repo: `{link-repo-sapo}`
-
-- **Hardening Scripts (Linux)** — Baseline automatizada  
-  _Bash/Python_ · configura permisos, desactiva root/SSH por password, instala fail2ban, etc.  
-  Repo: `{link-repo-hardening}`
-
-- **Sniffer & Firewall** — Seguridad de red educativa  
-  _Python (Scapy) · Reglas IP/puerto_  
-  Repos: `{link-repo-sniffer}` · `{link-repo-firewall}`
-
----
-
-### Tech Stack
-**Frontend:** React · Tailwind CSS  
-**Backend:** Node.js · Express · JWT · REST  
-**DB:** MongoDB · Mongoose  
-**AI:** OpenAI / Hugging Face (inference)  
-**DevOps:** Vercel · Render · Variables de entorno · CORS  
-**Lenguajes:** JavaScript · Python · C++ (aprendiendo)  
-**Sistemas/Redes:** Linux · Bash · Scapy · nfTables/ufw
-
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JS-ES202x-informational?logo=javascript">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-Express-success?logo=node.js">
-  <img alt="React" src="https://img.shields.io/badge/React-18-blue?logo=react">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-Mongoose-brightgreen?logo=mongodb">
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwindcss&logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel">
-  <img alt="Render" src="https://img.shields.io/badge/Render-Deploy-46E3B7?logo=render">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-Bash-informational?logo=linux">
+### 📊 Señales del sistema
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=444ldea&show_icons=true&hide_title=true&count_private=true&theme=merko&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=444ldea&layout=compact&langs_count=8&theme=merko&hide_border=true" />
 </p>
 
 ---
 
-### Métricas (opcionales)
+<details>
+<summary>🟢 Logs recientes (colapsable)</summary>
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=444ldea&show_icons=true&hide_title=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=444ldea&layout=compact&langs_count=8" alt="Top Langs" />
+- Persistencia de navegación en React (página/paciente/evaluación) sin pantallas en blanco.  
+- Deploy FE/BE con CORS y `.env` para producción.  
+- Sniffer con Scapy + reglas de firewall por IP/puerto.  
+- Scripts de hardening (SSH sin password, fail2ban, mínimos permisos).
+</details>
+
+---
+
+<p align="center">
+  <sub style="color:#00ff41">“There is no spoon.”</sub>
 </p>
 
----
-
-### Cómo puedo ayudarte
-- Diseño e implementación de **APIs REST** con autenticación JWT.  
-- **Integración de IA** en flujos de negocio (prompts, contexto, consideraciones éticas).  
-- **Despliegue** de apps full-stack (Vercel/Render) y configuración de **CORS/env**.  
-- **Scripts de hardening** y automatizaciones de seguridad en Linux.  
-
-**¿Colaboramos?** Escríbeme: `aldeatorres.f@gmail.com` · LinkedIn: `https://www.linkedin.com/in/felipe-aldea/`
-
----
-
-<sub>Última actualización: 2025-08-28</sub>
