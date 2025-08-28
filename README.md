@@ -2,7 +2,7 @@
 <!-- README de perfil con tema Matrix -->
 <!-- assets/matrix-rain.svg -->
 <p align="center">
-  <img src="assets/matrix-rain.svg?v=1" width="100%" alt="Matrix banner majaji">
+  <img src="assets/matrix-rain.svg?v=1" width="100%" alt="">
 </p>
 
 ---
