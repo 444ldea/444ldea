@@ -55,7 +55,7 @@
 ---
 
 <details>
-<summary> Más sobre mí (</summary>
+<summary> Más sobre mí </summary>
 - Soy un simple majaji
 </details>
 
