@@ -29,10 +29,13 @@
 
 ### 🟢 Stack
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-18-00ff41?labelColor=000000&logo=react">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-Express-00ff41?labelColor=000000&logo=node.js">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-Mongoose-00ff41?labelColor=000000&logo=mongodb">
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-CSS-00ff41?labelColor=000000&logo=tailwindcss">
+  <img alt="Python" src="https://img.shields.io/badge/Python-00ff41?labelColor=000000&logo=python">
+  <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-00ff41?labelColor=000000&logo=javascript">
+  <img alt="Java" src="https://img.shields.io/badge/Java-00ff41?labelColor=000000&logo=java">
+  <img alt="React" src="https://img.shields.io/badge/React-00ff41?labelColor=000000&logo=react">
+  <img alt="Node.js" src="https://img.shields.io/badge/Express-00ff41?labelColor=000000&logo=node.js">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00ff41?labelColor=000000&logo=mongodb">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-00ff41?labelColor=000000&logo=postgresql">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-Bash-00ff41?labelColor=000000&logo=linux">
 </p>
 
@@ -51,36 +54,9 @@
 
 ---
 
-### 📊 Métricas
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=444ldea&show_icons=true&hide_title=true&count_private=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9cff9c&icon_color=00ff41" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=444ldea&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9cff9c" />
-</p>
-
-<!-- Opcional: racha de commits -->
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=444ldea&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=9cff9c&sideNums=9cff9c&sideLabels=9cff9c&dates=9cff9c" />
-</p>
-
-<!-- Trophies (opcional) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=444ldea&row=1&no-bg=true&no-frame=true&theme=darkhub&margin-w=10" />
-</p>
-
-<!-- Activity Graph (opcional) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=444ldea&bg_color=000000&color=00ff41&line=00ff41&point=99ff99&area=true&hide_border=true" />
-</p>
-
----
-
 <details>
-<summary>📂 Más sobre mí (colapsable)</summary>
-
-- Construyo **Nous** (HTP con IA) — React, Node, Mongo, JWT.  
-- DevOps: Vercel/Render, CORS, `.env`.  
-- Seguridad/Redes: Scapy, ufw/nftables, hardening.  
-- Aprendiendo C++.
+<summary> Más sobre mí (</summary>
+- Soy un simple majaji
 </details>
 
 
